@@ -29,7 +29,7 @@ class App < Sinatra::Base
     answer = 'Unable to perform this operation'
 
     case params[:operation]
-      edn
+    end
   end
 
 
